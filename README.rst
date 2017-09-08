@@ -9,11 +9,11 @@ ND Neural Nets for ecsemble learning
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
-
+Most of the Deep Neural nets are arranged in two dimensional grid like structure, here we proposed cortex like structure, where various 2D NN are embeded in N Dimensional manifold, this will ensure less dependence on intilization and will promote ensemble learning.
 
 Note
 ====
 
-This project has been set up using PyScaffold 2.5.6. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.
+Currently this project is in alpga stage, stay tuned for the updates.
+
+The project website is www.cognets.com, with aliases of .org and .net
